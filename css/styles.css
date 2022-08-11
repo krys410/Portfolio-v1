@@ -89,6 +89,9 @@ p{
 .margetop{
     margin-top: 50px;
 }
+.margetop p{
+    font-size: 22px;
+}    
 /*DEUXIEME SECTION*/
 .section2{
     display: flex;
